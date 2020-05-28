@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: Agency FB, Arial;
+    border: 2px solid black;
+    padding-top: 20px;
+    background: rgb(150,150,150);
+}
+
+#head {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 150px;
+    font-family: Agency FB, Arial;
+    font-size: 50px;
+}
+
+#instructions {
+    width: 75%;
+    margin: auto;
+    margin-bottom: 30px;
+    border: 1px solid black;
+    font-size: 20px;
+}
+
+.fact-div {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    width: 70%;    
+    font-family: Agency FB, Arial;
+}
+
+#fact-b {
+    width: 30%;
+    margin: auto;
+}
+
+#rFact {
+    text-align: center;
+    font-size: 40px;
+}
